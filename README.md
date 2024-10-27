@@ -99,7 +99,7 @@ Please note, as per the [GitHub Terms of Service](https://help.github.com/articl
 
 ### 🌍 Translations
 
-If you would like to help with translating the app to different languages, please join the [translation project](https://crowdin.com/project/grocery-genius). If the translation is already completed, you are also welcome to join and proofread it.
+If you’d like to help translate the app into different languages, please join the [translation project](https://crowdin.com/project/grocery-genius). Start by translating grocery item names in `default_products.json`, as this is the most important part, then move on to category names, other strings, and the remaining content. If a translation is already completed, you're welcome to vote on the strings or suggest your own version if you feel the existing one could be improved.
 
 ## License
 
